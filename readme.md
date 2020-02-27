@@ -3,7 +3,9 @@
 ### First spring restful service
 For further reference, please consider the following sections:
 
-* https://spring.io/guides/gs/rest-service/#scratch
+* rest service: https://spring.io/guides/gs/rest-service/#scratch
+* with swagger：https://www.jianshu.com/p/8033ef83a8ed
+
 
 ### Guides
 The following guides illustrate how to use some features concretely:

@@ -10,4 +10,11 @@ class Demo1ApplicationTests {
 	void contextLoads() {
 	}
 
+    @SpringBootTest
+    public static class TestingRestdocsApplicationTests {
+
+        @Test
+        public void contextLoads() throws Exception {
+        }
+    }
 }
